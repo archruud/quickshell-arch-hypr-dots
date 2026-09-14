@@ -1,0 +1,1 @@
+# quickshell-arch-hypr-dots
